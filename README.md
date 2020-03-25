@@ -1,4 +1,4 @@
-# Mosquitto_TLS_Android 
+# AndroidMosquittoBuildScript
 
 
 # How to build
